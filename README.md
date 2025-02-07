@@ -6,7 +6,7 @@ Conda 环境依赖批量导出工具
 
 ## notebook
 
-![cmd](assets\notebook.png)
+![cmd](./assets/notebook.png)
 
 ## bash
 
@@ -14,4 +14,4 @@ Conda 环境依赖批量导出工具
 python export_conda_requirements.py
 ```
 
-![cmd](assets\cmd.png)
+![cmd](./assets/cmd.png)
