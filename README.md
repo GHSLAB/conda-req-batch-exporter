@@ -11,7 +11,7 @@ Conda 环境依赖批量导出工具
 
 ## bash
 
-```bash
+```cmd
 python export_conda_requirements.py
 ```
 
